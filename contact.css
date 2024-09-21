@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+body{
+    padding: 0px,0px;
+    /* display: flex; */
+}
+.collection{
+    height: 970px;
+    background-image: url(img/tm-bg-6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+}
+.nav{
+    background-color: rgba(255, 255, 255, 0.719);
+    height: 80px;
+    width: 1300px;
+    margin-top: 30px;
+    margin-left: 30px;
+    display: block;
+}
+.pas{
+    margin-top: -27px;
+}
+.logo img{
+    height: 37px;
+    width: 40px;
+    margin-top: 45px;
+    margin-left: 40px;
+}
+.text{
+    margin-left: 85px;
+    margin-top: -35px;
+}
+.menu{
+    margin-left: 500px;
+    margin-top: -50px;
+    display: flex;
+}
+.menu a{
+    padding: 25px;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: blue;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    height: 78px;
+    padding: 25px;
+}
+.box1{
+    background-color: rgba(255, 255, 255, 0.863);
+    width: 600px;
+    height: 650px;
+    margin-top: 150px;
+    margin-left: -1250px;
+}
+.box1 h1{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: 600;
+    color: #000000d8;
+}
+.box1 h3{
+    line-height: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 30px;
+    letter-spacing: 1px;
+}
+.tony{
+    margin-top: 25px;
+}
+.name input{
+    padding: 15px;
+    padding-right: 45%;
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+.email input{
+    padding: 15px;
+    padding-right: 45%;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+.message input{
+    margin-left: 30px;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bolder; 
+    color: black;
+    width: 88%;
+    height: 180px;
+    resize: none;
+}
+.send{
+    background-color: rgba(12, 12, 240, 0.938);
+    height: 55px;
+    width: 140px;
+    display: flex;
+    margin-left: 420px;
+    margin-top: 20px;
+}
+.send h1{
+    color: white;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.send:hover{
+    background-color: rgba(0, 0, 255, 0.822);
+    color: white;
+    cursor: pointer;
+}
+.box2{
+    background-color: rgba(255, 255, 255, 0.863);
+    width: 555px;
+    height: 650px;
+    margin-top: 150px;
+    margin-left: 30px; 
+}
+.box2 h2{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: 600;
+}
+.ending{
+    margin-left: -1200px;
+    margin-top: 850px;
+ }
+ .ending img:hover{
+     background-color: blue;
+     transition-duration: 1s;
+ }
+ .facebook{
+     background-color: rgba(255, 255, 255, 0.596);
+     height: 40px;
+     width: 40px;
+     margin-left: 500px;
+     margin-top: 50px;
+ }
+ .face img{
+     height: 20px;
+     margin-top: 10px;
+     margin: 8px;
+ }
+ .google{
+     background-color:  rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 555px;
+     margin-top: -40px;
+ }
+ .goo img{
+     height: 25px;
+     margin-top: 8px;
+     margin-left: 10px;
+}
+ .twitter{
+     background-color:  rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 605px;
+     margin-top: -40px;
+}
+ .twi  img{
+     height: 22px;
+     margin-top: 8px;
+     margin-left: 10px;
+}
+ .betty{
+     background-color: rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 655px;
+     margin-top: -40px;
+ }
+ .bet img{
+     height: 22px;
+     margin-top: 8px;
+     margin-left: 9px;
+ }
+ .nin{
+     background-color: rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 705px;
+     margin-top: -40px;
+ }
+ .lin img{
+     height: 18px;
+     margin-top: 8px;
+     margin-left: 11px;
+ }
+ .ending :hover{
+     background-color: blue;
+     transition-duration: 1s;
+ }

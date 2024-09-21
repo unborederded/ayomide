@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+body{
+    padding: 0px,0px;
+    /* display: flex; */
+}
+.collection{
+    height: 880px;
+    background-image: url(img/tm-bg-5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+}
+.nav{
+    background-color: rgba(255, 255, 255, 0.719);
+    height: 80px;
+    width: 1300px;
+    margin-top: 40px;
+    margin-left: 30px;
+    display: block;
+}
+.pas{
+    margin-top: -27px;
+}
+.logo img{
+    height: 37px;
+    width: 40px;
+    margin-top: 45px;
+    margin-left: 40px;
+}
+.text{
+    margin-left: 85px;
+    margin-top: -35px;
+}
+.menu{
+    margin-left: 500px;
+    margin-top: -50px;
+    display: flex;
+}
+.menu a{
+    padding: 25px;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: blue;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    height: 78px;
+    padding: 25px;
+}
+.box1{
+    background-color: rgba(255, 255, 255, 0.699);
+    height: 270px;
+    width: 1180px;
+    margin-top: 60px;
+    margin-left: 40px;
+    line-height: 30px;
+}
+.box1 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40px;
+    margin-left: 30px;
+
+}
+.box1 h3{
+    margin-top: 50px;
+    display: block;
+    color: rgba(0, 0, 0, 0.678);
+    margin-left: 30px;
+}
+.box2{
+    background-color: rgba(255, 255, 255, 0.699);
+    height: 270px;
+    width: 600px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.box2 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40px;
+    margin-left: 30px;
+}
+.box2 h3{
+    margin-top: 25px;
+    display: block;
+    color: rgba(0, 0, 0, 0.678);
+    margin-left: 30px;
+    line-height: 30px;
+}
+.box3{
+    background-color: rgba(255, 255, 255, 0.699);
+    height: 270px;
+    width: 550px;
+    margin-left: 670px;
+    margin-top: -270px;
+}
+.box3 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40px;
+    margin-left: 30px;
+}
+.box3 h3{
+    margin-top: 25px;
+    display: block;
+    color: rgba(0, 0, 0, 0.678);
+    margin-left: 30px;
+    line-height: 30px;
+}
+.ending{
+    margin-left: 30px;
+    margin-top: -50px;
+}
+.ending img:hover{
+     background-color: blue;
+     transition-duration: 1s;
+}
+.facebook{
+     background-color: rgba(255, 255, 255, 0.596);
+     height: 40px;
+     width: 40px;
+     margin-left: 500px;
+     margin-top: 100px;
+}
+.face img{
+     height: 20px;
+     margin-top: 10px;
+     margin: 8px;
+}
+ .google{
+     background-color:  rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 555px;
+     margin-top: -40px;
+ }
+ .goo img{
+     height: 25px;
+     margin-top: 8px;
+     margin-left: 10px;
+ }
+ .twitter{
+     background-color:  rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 605px;
+     margin-top: -40px;
+ }
+ .twi  img{
+     height: 22px;
+     margin-top: 8px;
+     margin-left: 10px;
+ }
+ .betty{
+     background-color: rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 655px;
+     margin-top: -40px;
+ }
+ .bet img{
+     height: 22px;
+     margin-top: 8px;
+     margin-left: 9px;
+ }
+ .nin{
+     background-color: rgba(255, 255, 255, 0.527);
+     height: 40px;
+     width: 40px;
+     margin-left: 705px;
+     margin-top: -40px;
+ }
+ .lin img{
+     height: 18px;
+     margin-top: 8px;
+     margin-left: 11px;
+ }
+ .lin img:hover{
+     background-color: blue;
+     transition-duration: 1s;
+ }

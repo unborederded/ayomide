@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+body{
+    padding: 0px,0px;
+    /* display: flex; */
+}
+.collection{
+    height: 1050px;
+    background-image: url(img/tm-bg-3.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+}
+.nav{
+    background-color: rgba(255, 255, 255, 0.719);
+    height: 80px;
+    width: 1300px;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: block;
+}
+.pas{
+    margin-top: -27px;
+}
+.logo img{
+    height: 37px;
+    width: 40px;
+    margin-top: 45px;
+    margin-left: 40px;
+}
+.text{
+    margin-left: 85px;
+    margin-top: -35px;
+}
+.menu{
+    margin-left: 500px;
+    margin-top: -50px;
+    display: flex;
+}
+.menu a{
+    padding: 25px;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: blue;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    height: 78px;
+    padding: 25px;
+}
+.neyi{
+    margin-top: -940px;
+    margin-left: 32px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.neyi h4{
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 30px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.815);
+}
+.ayo{
+    display: flex;
+}
+h1{
+    color: white;
+}
+.road{
+    background-image: url(img/tm-img-05-tn.jpg);
+    height: 280px;
+    width: 420px;
+    background-size: cover;
+    margin-top: 40px;
+    margin-left: 32px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+}
+.road h1{
+    margin-top: 80px;
+    margin-left: 88px;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.water{
+    background-image: url(img/tm-img-06-tn.jpg);
+    height: 279px;
+    width: 410px;
+    background-size: cover;
+    margin-top: -280px;
+    margin-left: 478px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+}
+.water h1{
+    margin-top: 80px;
+    margin-left: 88px;
+    font-size: 35x;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.rock{
+    background-image: url(img/tm-img-07-tn.jpg);
+    height: 280px;
+    width: 405px;
+    background-size: cover;
+    margin-top: -280px;
+    margin-left: 913px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+}
+.rock h1{
+    margin-top: 80px;
+    margin-left: 88px;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fox{
+    background-image: url(img/tm-img-10.jpg);
+    height: 280px;
+    width: 405px;
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 913px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+}
+.fox h1{
+    margin-top: 85px;
+    margin-left: 88px;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.man{
+    background-image: url(img/tm-img-09-tn.jpg);
+    height: 279px;
+    width: 410px;
+    background-size: cover;
+    margin-top: -280px;
+    margin-left: 478px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+}
+.man h1{
+    margin-top: 80px;
+    margin-left: 88px;
+    font-size: 35x;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.woman{
+    background-image: url(img/tm-img-08-tn.jpg);
+    height: 280px;
+    width: 415px;
+    background-size: cover;
+    margin-top: -277px;
+    margin-left: 32px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+}
+.woman h1{
+    margin-top: 80px;
+    margin-left: 88px;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ending{
+   margin-left: 70px;
+}
+.ending img:hover{
+    background-color: blue;
+    transition-duration: 1s;
+}
+.facebook{
+    background-color: rgba(255, 255, 255, 0.596);
+    height: 40px;
+    width: 40px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.face img{
+    height: 20px;
+    margin-top: 10px;
+    margin: 8px;
+}
+.google{
+    background-color:  rgba(255, 255, 255, 0.527);
+    height: 40px;
+    width: 40px;
+    margin-left: 555px;
+    margin-top: -40px;
+}
+.goo img{
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.twitter{
+    background-color:  rgba(255, 255, 255, 0.527);
+    height: 40px;
+    width: 40px;
+    margin-left: 605px;
+    margin-top: -40px;
+}
+.twi  img{
+    height: 22px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.betty{
+    background-color: rgba(255, 255, 255, 0.527);
+    height: 40px;
+    width: 40px;
+    margin-left: 655px;
+    margin-top: -40px;
+}
+.bet img{
+    height: 22px;
+    margin-top: 8px;
+    margin-left: 9px;
+}
+.nin{
+    background-color: rgba(255, 255, 255, 0.527);
+    height: 40px;
+    width: 40px;
+    margin-left: 705px;
+    margin-top: -40px;
+}
+.lin img{
+    height: 18px;
+    margin-top: 8px;
+    margin-left: 11px;
+}
+.ending :hover{
+    background-color: blue;
+    transition-duration: 1s;
+}
